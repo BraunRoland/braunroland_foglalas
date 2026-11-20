@@ -3,3 +3,17 @@ body {
     color:rgb(58, 46, 135);
 }
 
+#form {
+    background-color: rgb(236, 236, 236);
+    margin: 10px 0;
+    padding: 15px;
+}
+
+button {
+    margin: 10px;
+}
+
+.hiba {
+    color: red;
+}
+
